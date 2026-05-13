@@ -17,7 +17,11 @@ I am a 2nd-year Computer Science student at FCT NOVA with a strong interest in a
 
 ## 🔬 Featured Projects
 
-### TODO
+### ♟️ Custom C++ Chess Engine
+*A high-performance chess engine focused on efficiency and strategic AI.*
+- **Tech:** C++20, SFML 3.0, Bitboard Architecture.
+- **Key Features:** Implemented a custom bitboard move generator and a Minimax algorithm with Alpha-Beta pruning for real-time decision making.
+- **Goal:** Demonstrates low-level memory management, bitwise optimization, and game state logic.
 
 ---
 
